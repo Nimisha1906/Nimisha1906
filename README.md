@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nimisha1906
+- 👋 Hi, I’m Nimisha Mathew
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Business Analysis
 - 💞️ I’m looking to collaborate on ...
