@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nimisha1906
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Business Analysis
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me nm4nimisha@gmail.com
 
 <!---
 Nimisha1906/Nimisha1906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
